@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Projects** for my own practice
 
-- 🌱 I’m currently learning **Go, Django Framework, System Design, Advanced C++**
+- 🌱 I’m currently learning **Golang Backend Development, System Design, Advanced C++**
 
 - 👨‍💻 Here's my Portfolio website created by ReactJS [https://final-3ba85.web.app/](https://final-3ba85.web.app/)
 
