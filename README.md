@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/aayush-54654a231/**
 
-- ⚡ Fun fact **My childhood was a lie that original Chocolates are more delicious**
+- ⚡ Fun fact **Original Chocolates are more delicious and that's a lie!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
