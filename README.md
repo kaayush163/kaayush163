@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaayush163&label=Profile%20views&color=0e75b6&style=flat" alt="kaayush163" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects** for my own practice
+- 🔭 I’m currently working on **MERN Stack Projects** with Redux Toolkit usage too.
 
 - 🌱 I’m currently learning **Golang Backend Development, System Design, Advanced C++**
 
