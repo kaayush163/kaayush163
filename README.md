@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C/C++, Javascript, DSA, Backend Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aayush-54654a231/**
+- 📫 How to reach me **kaayush163@gmail.com**
 
 - ⚡ Fun fact **Almost every Coder has started their journey from "Hello World" program**
 
