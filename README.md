@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/aayush-54654a231/**
 
-- ⚡ Fun fact **Original Chocolates are more delicious and that's a lie!!!**
+- ⚡ Fun fact **Mostly everyone has started their journey of coding from "Hello World"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
